@@ -26,6 +26,12 @@ Here are some of the ones that F&C members have been asked. Please add your own:
 * What happens when you click a link? - If you want to go super deep you can go through [this](https://github.com/alex/what-happens-when)
 * What does 'agile' mean? Four principles [here](http://agilemanifesto.org/)
 * What's source control and why do you use it? Which ones have you used? What is different about Git?
+* Describe different ways to create objects in JavaScript.
+* Explain what is prototypal inheritance.
+* How familiar are you with ES6 and talk me through some new ES6 features.
+* What are some advantages of functional programming?
+* Tell me about the BEM methodology (after I used it in a pair-programming session)
+* How would you define good UX and how subjective it is? How would you convince a client that option A is better than option B in UX terms?
 
 ### General questions:
 * What are your strengths and weaknesses?
@@ -37,3 +43,13 @@ Here are some of the ones that F&C members have been asked. Please add your own:
 * What do you think about retrospectives?
 * What story would you tell about F&C to someone thinking about applying?
 * If you had to give an award to one person at F&C, who would it be and what for? - @cleo for being awesome at explaining things.
+* What are the characteristics of a good software engineer?
+* Where do you see yourself in 5 years time? (all time classic!)
+* Tell me about a successful and a negative teamwork experience. What went well and what went wrong in both cases and how you dealt with it.
+
+### Lessons learnt from interviews
+- If you don't know the answer, just say so. Describe how you would approach the problem.
+- Ask for questions and show them that you are interested. Do your research before you go.
+- Highlight why the F&C course is special (have a look at @jsms90's lovely summary [here](./what-sets-FAC-apart.md)) and what you learnt during the course. People get very excited about the course and this reflects well on us as graduates. Don't forget to mention our mentoring role for the weekly meetups and for teaching the next cohort.
+- Ask them if they want to see your projects, bring your laptop and be prepared to walk them through your work.
+- Pen and paper or whiteboard if you need it to write down or explain your thought process.
