@@ -32,6 +32,12 @@ Here are some of the ones that F&C members have been asked. Please add your own:
 * What are some advantages of functional programming?
 * Tell me about the BEM methodology (after I used it in a pair-programming session)
 * How would you define good UX and how subjective it is? How would you convince a client that option A is better than option B in UX terms?
+* How would you find a missing number in a sequence of consecutive numbers, e.g. `[1,2,4]`?
+* How can you handle async flow with `Promises`?
+* How would you write the following function `add(2)(3)`?
+* What is the difference between `pipe` and `compose`?
+* What is the difference between `currying` and `partial application`?
+* Given an array of users how would you write a function that returns the total age of everyone whose name starts with letter `M` and who has been born after `1976`?
 
 ### General questions:
 * What are your strengths and weaknesses?
